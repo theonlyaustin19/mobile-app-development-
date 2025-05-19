@@ -99,4 +99,7 @@ Design Features:
 - Optional Preset Buttons: 30s, 1m, 5m
 - Motivational text that changes while timing
 
+P4: Review the mobile app designs with others to identify and inform refinements:
+
+
 
