@@ -37,4 +37,62 @@ Navigation Flow Diagram:
 
 Each scren will be accessed through clear buttons on the main menu . A "back" button will be present on each feature screen, to allow users return to home screen 
 
+SCREEN DESIGNS :
 
+1. Main menu screen :
+
+Purpose : To be a dashboard where users can navigate to all main features 
+
+design features :  
+- App Title: Wellness Habit Tracker
+- Three Buttons:
+  - “Track Water”
+  - “Track Workouts”
+  - “Workout Timer”
+- Optional Motivational Quote (e.g. “Stay hydrated, stay healthy!”)
+- Spa/gym branding with calming colors and iconography
+
+
+
+2. Water Tracker Screen:
+
+Purpose: Allows users to track how much water they’ve consumed throughout the day.
+
+Design Features:
+
+- Display: “You’ve had 5/8 glasses today”
+- + Button: Adds 1 glass
+- − Button: Subtracts 1 glass
+- Progress Bar: Visually tracks goal (e.g. 62% complete)
+- Reset Button
+- Visuals: Cup icon or water drop
+
+
+
+3. Workout Tracker Screen
+
+Purpose: Allows users to log how many workouts they have completed today.
+
+Design Features:
+
+- Display: “Workouts Completed Today: 2”
+- “Workout Complete” Button: Increases counter
+- Reset Button
+- Optional: Workout Type Selector (e.g. Cardio, Yoga, Strength)
+- Creative Add-On:
+  - Brief celebratory animation or text when goal reached (e.g. “Awesome work!”)
+
+
+
+4. Workout Timer Screen
+
+Purpose: Provides a simple timer for use during workouts.
+
+Design Features:
+
+- Timer Display (MM:SS)
+- Start Button
+- Pause Button
+- Reset Button
+- Optional Preset Buttons: 30s, 1m, 5m
+- Motivational text that changes while timing
