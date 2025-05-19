@@ -96,3 +96,5 @@ Design Features:
 - Reset Button
 - Optional Preset Buttons: 30s, 1m, 5m
 - Motivational text that changes while timing
+
+
