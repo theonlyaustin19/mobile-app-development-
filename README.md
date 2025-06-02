@@ -99,6 +99,16 @@ Design Features:
 - Optional Preset Buttons: 30s, 1m, 5m
 - Motivational text that changes while timing
 
+## Wireframe for each screen : 
+
+## MAIN MENU 
+
+![image](https://github.com/user-attachments/assets/edc57d43-b18d-4b65-be34-074100c9cc77)
+
+
+## WATER TRACKER 
+
+
 P4: Review the mobile app designs with others to identify and inform refinements:
 
 
