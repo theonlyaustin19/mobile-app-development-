@@ -134,6 +134,12 @@ After receiving feedback from a friend, I made targeted refinements to improve t
 | Add a visual representation like a glass-filling animation or icon       | Added a dynamic water icon that changes based on water intake progress    | Provides clear visual feedback on hydration status           |
 
 
+## P5 Produce a mobile app that meets the design criteria.
+
+
+
+
+
 ## P6 Test a mobile app for functionality, usability, stability and performance. 
 
 ## Functionality testing : 
@@ -241,6 +247,45 @@ Overall, the final app meets  and in many areas exceeds  the original requiremen
 
 
 
+## D3 Demonstrate individual responsibility, creativity and effective self-management in the design, development and review of a mobile app.
+
+##  Development Calendar
+
+| **Date**       | **Task Completed**                                       |
+|----------------|----------------------------------------------------------|
+| Week 1         | Reviewed client brief, wrote requirements, created wireframes and design ideas. |
+| Week 2         | Designed all app screens in XML, completed navigation flow, and built main layout. |
+| Week 3         | Implemented Water Tracker and Workout Tracker functionality. |
+| Week 4         | Developed Workout Timer screen, added presets and buttons. |
+| Week 5         | Conducted full testing (usability, performance, stability), logged and fixed bugs. |
+| Week 6         | Added creative touches ( motivational alerts, ). |
+| Week 7         | Collected peer feedback, made final refinements, wrote documentation. |
+
+
+##  Responsibility, Creativity & Self-Management Table
+
+| **Area**                    | **What I Did**                                                                                     | **How It Shows Responsibility, Creativity or Self-Management**                                      |
+|-----------------------------|----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| Planning & Requirement Analysis | Reviewed the brief, created wireframes, and identified key client requirements.                 | Demonstrates responsibility and clear understanding of goals before development began.             |
+| Creative Design Decisions   | Included motivational quotes            | Shows creativity and a user-centered design approach tailored to the wellness industry.            |
+| Independent Development     | Designed, built, tested, and debugged the entire mobile app myself using Android Studio.           | Shows strong individual responsibility and technical independence.                                 |
+| Testing & Refinement        | Conducted usability and performance testing; optimised visuals and fixed timer bug.                | Reflects self review, problem-solving, and quality assurance without relying on external support.  |
+| Feedback Implementation     | Reviewed feedback and improved motivational alerts, navigation, and progress tracking visuals.     | Demonstrates openness to improvement and taking initiative to refine the app.                      |
+| Time Management             | Followed a personal development schedule with milestone goals and regular updates.                 | Proves effective self-management and ability to meet deadlines independently.                      |
+
+
+##  Reflection on Responsibility, Creativity, and Self-Management
+
+Throughout the design and development of this mobile habit tracking app, I demonstrated strong individual responsibility by taking full ownership of the project from concept to completion. I carefully gathered and interpreted client requirements, created wireframes, and translated them into a working mobile application using Android Studio. At each stage, I stayed focused on delivering a functional, user-friendly solution that met the needs of the client while also incorporating thoughtful, creative elements.
+
+Creativity was evident in multiple design decisions, such as the inclusion of rotating motivational quotes, visually engaging progress bars, and a clean, intuitive user interface that aligned with wellness and lifestyle themes. These features not only added a unique touch to the app but also helped boost user engagement. I also refined the app by incorporating animation and alert messages that provided helpful feedback during user interaction.
+
+Effective self-management was key to meeting deadlines and producing a high-quality result. I followed a structured workflow, using planning documents and task tracking to manage my time. I conducted regular testing, identified bugs, and made meaningful improvements based on feedback. My ability to reflect on and evaluate my own work ensured the app was not only functional but also polished and reliable. Overall, this project showcases my ability to independently manage a full development lifecycle while demonstrating both technical and creative strengths.
+
+##  Overall Conclusion
+
+My mobile habit tracking app project successfully fulfilled the client’s core requirements by delivering an intuitive, functional, and engaging wellness tool. Through a structured design and development process, I created an app that allows users to easily monitor their daily water intake, log workouts, and use a versatile workout timer — all within a clean, user-friendly interface. The inclusion of creative features such as motivational quotes and animated progress bars enhanced the user experience and helped the app stand out.
 
 
 
+Overall, this project not only showcases technical skills in mobile app development but also highlights my ability to deliver a well rounded, creative solution tailored to client needs.
